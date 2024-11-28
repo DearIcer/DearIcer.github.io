@@ -24,8 +24,8 @@
         "website": "https://hic.top",
         "socialLink": {
             "link": {
-                "bilibili": "https://space.bilibili.com/109368146",
-                "github": "https://github.com/DearIcer",
+                "bilibili": "https://space.bilibili.com/675279872",
+                "github": "https://github.com/ChengCheng0v0",
                 "email": "javascript:showEmail()"
             },
             "icon": {
@@ -38,5 +38,18 @@
     },
     "pageHead": {
         "typedContent": ["求知若饥，虚心若愚", "Stay Hungry Stay Foolish"]
+    },
+    "icp": {
+        "info": {
+            "code": {
+                "china": "X-ICP备XXXXXXXXXX号",
+                "moegov": "萌ICP备XXXXXXXX号"
+            },
+            "link": {
+                "china": "https://beian.miit.gov.cn",
+                "moegov": "https://icp.gov.moe/?keyword=xxxxxxxx"
+            }
+        },
+        "enable": ["moegov", "china"]
     }
 }
