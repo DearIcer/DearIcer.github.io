@@ -42,6 +42,8 @@
 ---
 
 ## 开源项目
+- [DesktopPet](https://github.com/DearIcer/DesktopPet) | 这是一个桌面宠物demo！三维的！
+
 - [AircraftWars](https://github.com/DearIcer/AircraftWars) | 初学引擎时做的小游戏！
 
 - [RuntimeMMDwithUnity](https://github.com/DearIcer/RuntimeMMDwithUnity) | 来看二次元小人跳舞~
