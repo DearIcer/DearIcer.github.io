@@ -47,6 +47,8 @@
 ---
 
 ## 开源项目
+- [UnityLrc歌词文件支持](https://github.com/DearIcer/UnityLrcSupport) | Unity实现Lrc歌词文件读取以及播放展示！
+
 - [DesktopPet](https://github.com/DearIcer/DesktopPet) | 这是一个桌面宠物demo！三维的！
 
 - [AircraftWars](https://github.com/DearIcer/AircraftWars) | 初学引擎时做的小游戏！
