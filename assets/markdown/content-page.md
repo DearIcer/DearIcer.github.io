@@ -54,6 +54,8 @@
 - [AircraftWars](https://github.com/DearIcer/AircraftWars) | 初学引擎时做的小游戏！
 
 - [RuntimeMMDwithUnity](https://github.com/DearIcer/RuntimeMMDwithUnity) | 来看二次元小人跳舞~
+
+- [视频桌面Demo](https://github.com/DearIcer/VideoWallpaperDemo) | 使用Winfrom实现将视频设置成桌面背景！
 ---
 
 ## 联系方式
