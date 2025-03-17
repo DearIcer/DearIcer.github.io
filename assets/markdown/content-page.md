@@ -47,6 +47,9 @@
 ---
 
 ## 开源项目
+
+- [虚幻引擎接入Deepseek问答助手](https://github.com/DearIcer/UnrealDeepseek) | 直接在引擎编辑器内对ai提问！
+
 - [UnityLrc歌词文件支持](https://github.com/DearIcer/UnityLrcSupport) | Unity实现Lrc歌词文件读取以及播放展示！
 
 - [DesktopPet](https://github.com/DearIcer/DesktopPet) | 这是一个桌面宠物demo！三维的！
