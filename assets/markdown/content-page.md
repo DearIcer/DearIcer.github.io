@@ -48,6 +48,8 @@
 
 ## 开源项目
 
+- [基于Deepseek的哄女友小游戏](https://github.com/DearIcer/AngryGirlfriendGame) | 傲娇女友、地雷妹、雌小鬼~应有尽有！
+
 - [虚幻引擎接入Deepseek问答助手](https://github.com/DearIcer/UnrealDeepseek) | 直接在引擎编辑器内对ai提问！
 
 - [UnityLrc歌词文件支持](https://github.com/DearIcer/UnityLrcSupport) | Unity实现Lrc歌词文件读取以及播放展示！
